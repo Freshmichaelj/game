@@ -50,6 +50,11 @@
 			"Name": "SmoothSyncPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c8f61b007fb44f4abcb7b0974cebff6b"
+		},
+		{
+			"Name": "PlayFabIntegrationKit",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/65a3756af6be4c88bfe66af31d189964"
 		}
 	]
 }
