@@ -12,3 +12,21 @@ A few steps to get started:
 # Tracking Version Control
 
 Once cloning, it's important for Github to be able to notice exactly what you're changing. To track everything what we do, do the following commands.
+
+1. git lfs track ".uasset"
+2. git lfs track ".umap"
+3. git lfs track ".uplugin"
+
+# Pushing, Pulling, and Commiting.
+
+To PULL:
+1. 'git pull'
+
+To PUSH:
+1. git status (will be red now to show that has not been added)
+2. git add -A
+3. git -status (will be green now to show that has been added)
+4. git commit -m "" (inside of quotes, describe what you did)
+5. git push
+
+congrats, you have officially pushed, now other people can pull!
