@@ -31,7 +31,7 @@ To PUSH:
 
 To SWITCH BRANCHES:
 
-1. git switch {branch name} *I believe this will create a branch if it does not exist as well*
+1. git switch {branch name} ..... *I believe this will create a branch if it does not exist as well*
 
 congrats, you have officially pushed, now other people can pull! You can also do progress on your own branch.
 
