@@ -35,4 +35,7 @@ To SWITCH BRANCHES:
 
 congrats, you have officially pushed, now other people can pull! You can also do progress on your own branch.
 
+if you are interesed in learning what else you can do with git:
+https://github.com/joshnh/Git-Commands
+
 
