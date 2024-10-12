@@ -17,7 +17,7 @@ Once cloning, it's important for Github to be able to notice exactly what you're
 2. git lfs track ".umap"
 3. git lfs track ".uplugin"
 
-# Pushing, Pulling, and Commiting.
+# Pushing, Pulling, Commiting, and Switching branches.
 
 To PULL:
 1. 'git pull'
@@ -29,4 +29,10 @@ To PUSH:
 4. git commit -m "" (inside of quotes, describe what you did)
 5. git push
 
-congrats, you have officially pushed, now other people can pull!
+To SWITCH BRANCHES:
+
+1. git switch {branch name} *I believe this will create a branch if it does not exist as well*
+
+congrats, you have officially pushed, now other people can pull! You can also do progress on your own branch.
+
+
