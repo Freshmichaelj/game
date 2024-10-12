@@ -8,3 +8,7 @@ A few steps to get started:
 2. Head to the folder where you want to place the game, right click, open 'git bash'
 3. On this website, click the green code button and copy the HTTPS address.
 4. Now back to GIT BASH, type 'git clone' then paste the address in. You should have the game now.
+
+# Tracking Version Control
+
+Once cloning, it's important for Github to be able to notice exactly what you're changing. To track everything what we do, do the following commands.
