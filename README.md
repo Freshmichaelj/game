@@ -17,7 +17,7 @@ Once cloning, it's important for Github to be able to notice exactly what you're
 2. git lfs track ".umap"
 3. git lfs track ".uplugin"
 
-# Pushing, Pulling, Commiting, and Switching branches.
+# Pushing, Pulling, Commiting, and Switching Branches.
 
 To PULL:
 1. 'git pull'
