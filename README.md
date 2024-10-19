@@ -1,6 +1,11 @@
 # Codename: N.O.V.A. Works
 ![yearsApart](https://github.com/user-attachments/assets/c290b336-aea6-4f30-815a-1973fbc63ffc)
 
+# UNREAL ENGINE
+We will continue to update our engine if our current team desires. 
+
+We will also be using BLUEPRINTS for now, until we get a decent prototype. After prototyping is done and we get funding of some sort, half of the team will move into a long phase of converting mostly everything into C++ for optimization purposes. If funding is big, we will hire a person for programming and another for environment.
+
 # Version Control
 A few steps to get started:
 
@@ -37,8 +42,3 @@ congrats, you have officially pushed, now other people can pull! You can also do
 
 if you are interesed in learning what else you can do with git:
 https://github.com/joshnh/Git-Commands
-
-# UNREAL ENGINE
-We will continue to update our engine if our current team desires. 
-
-We will also be using BLUEPRINTS for now, until we get a decent prototype. After prototyping is done and we get funding of some sort, half of the team will move into a long phase of converting mostly everything into C++ for optimization purposes. If funding is big, we will hire a person for programming and another for environment.
