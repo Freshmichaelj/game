@@ -6,6 +6,10 @@ We will continue to update our engine if our current team desires.
 
 We will also be using BLUEPRINTS for now, until we get a decent prototype. After prototyping is done and we get funding of some sort, half of the team will move into a long phase of converting mostly everything into C++ for optimization purposes. If funding is big, we will hire a person for programming and another for environment.
 
+We use plugins whenever it seems to be necesary or we see that it can speed up our process. In order for the game to run, in the "GAMES" tab in the Unreal Project Browser, click blank, and enable C++, this will configure VSCode to Unreal Engine C++, which then lets you rebuild our game. It should prompt you with this if you haven't enabled this yet.
+
+![Capture](https://github.com/user-attachments/assets/9d2db2d4-409b-4b22-9e24-fbbb57c7b454)
+
 # Version Control
 A few steps to get started:
 
