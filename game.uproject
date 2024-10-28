@@ -53,7 +53,7 @@
 		},
 		{
 			"Name": "PlayFabIntegrationKit",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/65a3756af6be4c88bfe66af31d189964"
 		}
 	]
